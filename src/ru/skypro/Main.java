@@ -17,10 +17,10 @@ public class Main {
 
         for (i = 10; i > 0; i --) {
             if (i == 1) {
-            System.out.println(i);
+                System.out.println(i);
                 break;
-        }
-        System.out.print(i + " ");
+            }
+            System.out.print(i + " ");
         }
 
         // Задача 2
